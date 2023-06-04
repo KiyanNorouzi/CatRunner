@@ -1,3 +1,8 @@
+#####
+##### Ф.И: Ноурузи Мехди , Косарпур Киана
+##### группа: R3135
+#####
+
 import pygame
 from pygame import mixer
 import os

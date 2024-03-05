@@ -3,9 +3,12 @@
 ![IMAGE_DESCRIPTION](https://github.com/KiyanNorouzi/CatRunner/blob/main/img/ScreenShot.png)  
 
 # Разработчики:
-Ноурузи Мехди.
-Коарпур Киана.
-Вазири Могим Мохаммад Хоссейн.
+Ноурузи Мехди
+
+Коарпур Киана
+
+Вазири Могим Мохаммад Хоссейн
+
 
 # Кошка Бегун
 
